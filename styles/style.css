@@ -1,0 +1,18 @@
+/* google font (roboto) */
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap");
+
+body {
+     font-family: "Roboto", sans-serif;
+}
+
+.packeg-heading {
+     color: #0a0826;
+}
+.packeg-color {
+     color: #231d4f;
+}
+.package-3 {
+     border-radius: 20px;
+     background-color: #3f87f5;
+}
