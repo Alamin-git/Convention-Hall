@@ -14,5 +14,7 @@ body {
 }
 .package-3 {
      border-radius: 20px;
-     background-color: #3f87f5;
+     background-color: rgb(63, 135, 245);
+     box-shadow: rgba(96, 152, 235, 0.25) 0px 19px 38px,
+          rgba(120, 150, 194, 0.22) 0px 15px 12px;
 }
