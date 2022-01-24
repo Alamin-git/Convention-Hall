@@ -5,26 +5,32 @@
 body {
      font-family: "Roboto", sans-serif;
 }
+/* for main heading fast color  */
 .main-heading {
      color: rgb(63, 135, 245);
 }
-
+/* section heading color  */
 .packeg-heading {
      color: #0a0826;
 }
+/* packeg text color  */
 .packeg-color {
      color: #231d4f;
 }
+/* packeg background color  */
 .packeg-bg {
      border-radius: 20px;
      background-color: rgba(176, 205, 248, 0.322);
 }
+/* packeg three background color  */
 .package-3 {
      border-radius: 20px;
      background-color: rgb(63, 135, 245);
      box-shadow: rgba(96, 152, 235, 0.25) 0px 19px 38px,
           rgba(120, 150, 194, 0.22) 0px 15px 12px;
 }
-.app-btn {
-     background-color: #000000;
+
+.image-icon {
+     height: 40px;
+     width: 135px;
 }
